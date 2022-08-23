@@ -1,4 +1,5 @@
 // comment 1
+// comment 2
 // schema.q
 // Quote Table Schema
 quote:([]time:`timestamp$();sym:`symbol$();bid:`float$();ask:`float$();bsize:`long$();asize:`long$());
